@@ -1,3 +1,5 @@
+-- In drawHUD(), you can find the Hud X/Y/W/H to move and resize to your liking.
+
 local font       = draw.CreateFont("Verdana", 14, 600)
 local fontLarge  = draw.CreateFont("Verdana", 18, 800)
 local fontHuge   = draw.CreateFont("Verdana", 28, 900)
